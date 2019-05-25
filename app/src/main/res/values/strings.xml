@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reddit Karma Tracker</string>
+    <string name="my_karma">My current karma: %s</string>
+    <string name="karma_stats">Karma Stats</string>
+    <string name="refresh_karma">Refresh Karma</string>
+    <string name="login">Login</string>
+    <string name="settings">Settings</string>
+    <string name="current_karma">Karma: %s</string>
+    <string name="current_time">Time: %s</string>
+</resources>
